@@ -2,7 +2,7 @@
 
 # Define variables
 userName=""
-groupName=""
+pass=""
 
 # Function to ask the user for their username
 ask_username() {
